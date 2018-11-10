@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+p.red {
+    color: red;
+}
+p.blue {
+    color: blue;
+}
+p.green {
+    color: green;
+}
+p.BIG {
+    font-size: 50px;
+}
+p.small {
+    font-size: 6px;
+}
+p.center{
+    text-align: center;
+}
+p.bold {
+    font-weight: bold;
+}
+p.font {
+    font-family: Calibri;
+}
+p.b {
+    font: bold 25px Georgia;
+    color:orange;
+}
+p.styledFont {
+    color:green;
+}
+#styledImage{ 
+    border: 10px solid transparent;
+    border-image-source: url(https://www.viewlike.us/wp-content/uploads/2013/04/css3-markup.jpg)> 
+    border-image-slice: 30;
+    border-color:orange;
+}
